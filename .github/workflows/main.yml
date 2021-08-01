@@ -1,4 +1,4 @@
-name: CI
+name: HACK
 
 on: workflow_dispatch
 
